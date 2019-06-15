@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+  #include<bits/stdc++.h>
 
 using namespace std;
 
@@ -40,7 +40,7 @@ void solveSudoku(int sudoku[9][9],int row, int column){
                 cout<<sudoku[i][j]<<" ";
             cout<<endl;
         }
-
+    cout<<endl;
 
     }
     else {
